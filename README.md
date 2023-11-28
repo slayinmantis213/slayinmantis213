@@ -1,6 +1,6 @@
 ### Greetings 👽 I'm Josh!
 
-- 🔭 I’m currently working on breaking into the tech industry 🐤
+- 🔭 I’m currently working on building a portfolio 🐤
 - 🌱 I’m currently learning TypeScript ⚖️
 - 👯 I’m looking to collaborate on volunteer/non-profit projects 🌎
 - 🤔 I’m looking for help with networking 🤝
